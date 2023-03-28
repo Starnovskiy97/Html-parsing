@@ -1,0 +1,22 @@
+
+
+.list__item {
+  width: 100%;
+  min-height: 50px;
+  border: 1px solid teal;
+  background-color: rgb(234, 240, 245);
+  padding: 10px;
+}
+
+.item__info {
+  margin-top: 10px;
+  font-size: 15px;
+}
+
+.item__info > span {
+  margin-right: 50px;
+}
+
+.loader {
+  margin-top: 250px;
+}
